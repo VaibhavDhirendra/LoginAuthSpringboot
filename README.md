@@ -18,7 +18,7 @@ User is able to sign-up(create new account) or login using existing credentials.
 ## Installation
 Could be installed and run locally using any ide, Run it locally and test it using any API testing tool.
 ```python
-
+GET http://localhost:8080/api/test/all
 ```
 
 
